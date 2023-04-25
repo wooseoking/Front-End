@@ -1,7 +1,7 @@
-<!--
+<code>
 <!DOCTYPE html>
-<head>
 
+ <head>
 </head>
 
 <body>
@@ -23,4 +23,4 @@
  </main>
  
 </body>
--->
+</code>
